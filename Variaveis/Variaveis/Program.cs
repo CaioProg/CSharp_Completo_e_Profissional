@@ -67,6 +67,12 @@ namespace Variaveis
             obj = "string";
             #endregion
 
+            #region Constantes
+            //const double pi = 3.1415;
+            //pi = 12; // Não é possivel alterar o valor de uma constante
+            //const string name = "Caio";
+            #endregion
+
             Console.WriteLine("");
             Console.ReadKey();
         }
