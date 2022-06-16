@@ -29,14 +29,22 @@ namespace Variaveis
             //numero = num1;
             #endregion
 
-            float real1 = 100.75f; // 32 bits
-            double real2 = 500.754; // 64 bits
-            decimal real3 = 75223.538m; // 128 bits
+            #region Números Reais
+            //float real1 = 100.75f; // 32 bits
+            //double real2 = 500.754; // 64 bits
+            //decimal real3 = 75223.538m; // 128 bits
 
-            double valor;
-            valor = real1;
+            //double valor;
+            //valor = real1;
+            #endregion
 
-            Console.WriteLine(valor);
+            #region Caractere
+            //char letra = '\u0061'; // char 'a'
+            //char escape = '\n';
+            //char literal = 'C';
+            #endregion
+
+            Console.WriteLine("");
             Console.ReadKey();
         }
     }
