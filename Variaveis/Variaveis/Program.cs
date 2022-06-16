@@ -61,7 +61,11 @@ namespace Variaveis
             //valor = "Text"; // Não aceita outros tipos de dados
             #endregion
 
-
+            #region Tipo Object (Base para todos os tipos)
+            object obj = false;
+            obj = 123;
+            obj = "string";
+            #endregion
 
             Console.WriteLine("");
             Console.ReadKey();
