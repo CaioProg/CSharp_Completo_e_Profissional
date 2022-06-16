@@ -15,6 +15,13 @@ namespace Variaveis
             Maxima = 30
         }
 
+        struct Pessoa
+        {
+            public string nome;
+            public int idade;
+            public double altura;
+        }
+
         static void Main(string[] args)
         {
             #region Numericas Integrais
@@ -84,7 +91,32 @@ namespace Variaveis
             //Notas notasAlunos = Notas.Media;
             #endregion
 
-            Console.WriteLine("");
+            #region Struct
+            Pessoa p1 = new Pessoa();
+            p1.altura = 1.78;
+            p1.idade = 35;
+            p1.nome = "João";
+
+            Pessoa p2 = new Pessoa()
+            {
+                nome = "Maria",
+                idade = 29,
+                altura = 1.65
+
+            };
+
+            p1.nome = "Logan";
+            #endregion
+
+            Console.WriteLine(p1.nome);
+            Console.WriteLine(p1.altura);
+            Console.WriteLine(p1.idade);
+
+            Console.WriteLine();   
+
+            Console.WriteLine(p2.nome);
+            Console.WriteLine(p2.altura);
+            Console.WriteLine(p2.idade);
             Console.ReadKey();
         }
     }
