@@ -55,6 +55,14 @@ namespace Variaveis
             //mensagem = texto;
             #endregion
 
+            #region Tipo Implícito Var
+            //var valor = 100;
+            //valor = 89;
+            //valor = "Text"; // Não aceita outros tipos de dados
+            #endregion
+
+
+
             Console.WriteLine("");
             Console.ReadKey();
         }
