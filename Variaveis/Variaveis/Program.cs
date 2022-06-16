@@ -44,7 +44,10 @@ namespace Variaveis
             //char literal = 'C';
             #endregion
 
-            Console.WriteLine("");
+            bool verificar = false;
+            verificar = true;
+
+            Console.WriteLine(verificar);
             Console.ReadKey();
         }
     }
