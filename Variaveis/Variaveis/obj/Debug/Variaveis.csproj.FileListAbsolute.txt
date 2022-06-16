@@ -6,3 +6,11 @@ C:\Workspace\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedi
 C:\Workspace\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
 C:\Workspace\Variaveis\Variaveis\obj\Debug\Variaveis.exe
 C:\Workspace\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
+C:\Workspace\Csharp\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Workspace\Csharp\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Workspace\Csharp\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Workspace\Csharp\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Workspace\Csharp\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Csharp\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Workspace\Csharp\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
