@@ -44,10 +44,18 @@ namespace Variaveis
             //char literal = 'C';
             #endregion
 
-            bool verificar = false;
-            verificar = true;
+            #region Boolean
+            //bool verificar = false;
+            //verificar = true;
+            #endregion
 
-            Console.WriteLine(verificar);
+            #region String (Cadeia de Caracteres)
+            //string texto = @"Texto string \n texto";
+            //string mensagem = null;
+            //mensagem = texto;
+            #endregion
+
+            Console.WriteLine("");
             Console.ReadKey();
         }
     }
