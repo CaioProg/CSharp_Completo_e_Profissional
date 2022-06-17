@@ -39,18 +39,24 @@ namespace Conversao
             #endregion
 
             #region Método Parse
-            string txtNumero = "1985";
+            //string txtNumero = "1985";
 
-            int numero = int.Parse(txtNumero);
+            //int numero = int.Parse(txtNumero);
 
-            byte num1 = byte.Parse("120");
+            //byte num1 = byte.Parse("120");
 
-            double num2 = double.Parse("123,34");
+            //double num2 = double.Parse("123,34");
 
-            float num3 = float.Parse("123,456");
+            //float num3 = float.Parse("123,456");
             #endregion
 
+            #region Classe Convert
+            //string texto = Convert.ToString(2500);
+            
+            //double num1 = Convert.ToDouble(false);
 
+            //int num2 = Convert.ToInt32('C');
+            #endregion
 
             Console.WriteLine();
             
