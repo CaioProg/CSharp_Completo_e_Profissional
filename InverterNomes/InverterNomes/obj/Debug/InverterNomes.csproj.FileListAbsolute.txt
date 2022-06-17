@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Workspace\CSharp_Completo_e_Profissional\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb
