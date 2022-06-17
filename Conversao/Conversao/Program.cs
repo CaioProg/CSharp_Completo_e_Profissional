@@ -28,9 +28,18 @@ namespace Conversao
             //    Console.WriteLine(numero);
             #endregion
 
+            #region Conversão Explícita
+            //ushort num1 = 500;
+            //byte num2 = (byte)num1;
 
+            //float num3 = 2500.786f;
+            //int num4 = (int)num3;
+
+            //char letra = (char)97;
+            #endregion
+
+            Console.WriteLine();  
             Console.ReadKey();
-
         }
     }
 }
