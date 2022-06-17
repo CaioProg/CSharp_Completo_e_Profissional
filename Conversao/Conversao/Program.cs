@@ -38,7 +38,22 @@ namespace Conversao
             //char letra = (char)97;
             #endregion
 
-            Console.WriteLine();  
+            #region Método Parse
+            string txtNumero = "1985";
+
+            int numero = int.Parse(txtNumero);
+
+            byte num1 = byte.Parse("120");
+
+            double num2 = double.Parse("123,34");
+
+            float num3 = float.Parse("123,456");
+            #endregion
+
+
+
+            Console.WriteLine();
+            
             Console.ReadKey();
         }
     }
