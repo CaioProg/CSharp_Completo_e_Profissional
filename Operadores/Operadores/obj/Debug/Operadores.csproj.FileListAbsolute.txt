@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\obj\Debug\Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Operadores\Operadores\obj\Debug\Operadores.pdb
