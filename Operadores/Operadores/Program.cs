@@ -91,8 +91,6 @@ namespace Operadores
             //bool final2 = res1 || res2;
             #endregion
 
-
-
             Console.WriteLine();
             Console.ReadKey();
         }
