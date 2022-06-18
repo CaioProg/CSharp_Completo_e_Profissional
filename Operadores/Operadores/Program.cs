@@ -51,8 +51,26 @@ namespace Operadores
             //string sobreNome = "Lucas";
             //string nomeCompleto = nome + sobreNome + " " + 2002;
             #endregion
-            Console.WriteLine();
 
+            #region Operadores de Atribuição
+            //int num1 = 13;
+
+
+            //int num1 = 10;
+            //num1 = num1 + 20;
+            //num1 += 20;
+            //num1 -= 20;
+            //num1 *= 20;
+            //num1 /= 2;
+            //num1 %= 2;
+
+            //string nome = "Caio";
+            //nome += " Lucas";
+            #endregion
+
+
+
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
