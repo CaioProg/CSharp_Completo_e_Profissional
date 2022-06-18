@@ -76,8 +76,12 @@ namespace Operadores
             //bool res3 = nome != "Caio";
             #endregion
 
-
-
+            #region Relacionais
+            //bool res = 100 < (100 * 2);
+            //bool res = (100 + 25) > (50 * 2);
+            //bool res = 45 <= (50 * 2);
+            //bool res = 705 >= (50 * 2);
+            #endregion
             Console.WriteLine();
             Console.ReadKey();
         }
