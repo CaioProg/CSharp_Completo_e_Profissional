@@ -82,6 +82,17 @@ namespace Operadores
             //bool res = 45 <= (50 * 2);
             //bool res = 705 >= (50 * 2);
             #endregion
+
+            #region Operadores lógicos
+            //bool res1 = 100 >= 50;
+            //bool res2 = 50 != 50;
+
+            //bool final = res1 && res2;
+            //bool final2 = res1 || res2;
+            #endregion
+
+
+
             Console.WriteLine();
             Console.ReadKey();
         }
