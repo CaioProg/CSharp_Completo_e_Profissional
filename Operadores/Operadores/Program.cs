@@ -32,6 +32,20 @@ namespace Operadores
             //Console.WriteLine(res);
             #endregion
 
+            #region Incremento e decremento
+            //int num1 = 10;
+
+            ////num1 = num1 + 1;
+            ////num1++
+            ////++num1;
+            ////num1--;
+            ////--num1;
+
+            //Console.WriteLine(num1--);
+
+            //Console.WriteLine(num1);
+            #endregion
+
 
 
             Console.ReadKey();
