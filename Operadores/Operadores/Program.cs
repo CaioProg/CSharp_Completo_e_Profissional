@@ -46,7 +46,12 @@ namespace Operadores
             //Console.WriteLine(num1);
             #endregion
 
-
+            #region Concatenação
+            //string nome = "Caio ";
+            //string sobreNome = "Lucas";
+            //string nomeCompleto = nome + sobreNome + " " + 2002;
+            #endregion
+            Console.WriteLine();
 
             Console.ReadKey();
         }
