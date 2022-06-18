@@ -68,6 +68,14 @@ namespace Operadores
             //nome += " Lucas";
             #endregion
 
+            #region Igualdade / Comparação
+            //bool res = 1 == (11 % 2);
+            //bool res2 = (200 / 2) != (100 + 100);
+
+            //string nome = "Lucas";
+            //bool res3 = nome != "Caio";
+            #endregion
+
 
 
             Console.WriteLine();
