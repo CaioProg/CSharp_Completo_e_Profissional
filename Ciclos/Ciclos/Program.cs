@@ -29,6 +29,17 @@ namespace Ciclos
             //    valor++;
             //} while (valor < 10);
             #endregion
+
+            #region Ciclo for
+            //for (int i = 0, j = 0; i < 10 && j < 5 ; i++, j++)
+            //{
+            //    Console.WriteLine($"O valor de i é: {i}");
+            //    Console.WriteLine($"O valor de j é: {j}");
+            //}
+            #endregion
+
+
+
             Console.ReadKey(); 
         }
     }
