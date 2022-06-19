@@ -10,7 +10,6 @@ namespace Controle
     {
         static void Main(string[] args)
         {
-
             #region Switch - Case
             //int escolha = 7;
 
@@ -32,7 +31,27 @@ namespace Controle
             //}
             #endregion
 
+            #region Goto
+            //Inicio:
+            //Console.Write("Ecolha uma opção: ");
 
+            //int op = int.Parse(Console.ReadLine());
+            //int valor = 0;
+
+            //switch (op)
+            //{
+            //    case 1:
+            //        valor += 100;
+            //        break;
+            //    case 2:
+            //        valor += 50;
+            //        goto case 1;
+            //    default:
+            //        goto Inicio;
+            //}
+
+            //Console.WriteLine($"Valor final: {valor}");
+            #endregion
 
             Console.ReadKey();
         }
