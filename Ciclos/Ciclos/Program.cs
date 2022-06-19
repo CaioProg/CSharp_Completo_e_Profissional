@@ -20,8 +20,15 @@ namespace Ciclos
             //}
             #endregion
 
+            #region Ciclo do-while
+            //int valor = 15;
 
-
+            //do
+            //{
+            //    Console.WriteLine($"O valor é: {valor}");
+            //    valor++;
+            //} while (valor < 10);
+            #endregion
             Console.ReadKey(); 
         }
     }
