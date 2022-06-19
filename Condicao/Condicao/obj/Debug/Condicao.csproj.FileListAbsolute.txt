@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\obj\Debug\Condicao.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Condicao\Condicao\obj\Debug\Condicao.pdb
