@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
