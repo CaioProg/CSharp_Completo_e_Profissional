@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.pdb
