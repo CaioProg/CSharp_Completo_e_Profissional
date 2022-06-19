@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb
