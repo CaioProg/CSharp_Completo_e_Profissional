@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\bin\Debug\Controle.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\bin\Debug\Controle.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\obj\Debug\Controle.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\obj\Debug\Controle.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Controle\Controle\obj\Debug\Controle.pdb
