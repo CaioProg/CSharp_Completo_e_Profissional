@@ -32,7 +32,8 @@ namespace Controle
             #endregion
 
             #region Goto
-            //Inicio:
+
+            //Inicio: <- Declaração do goto
             //Console.Write("Ecolha uma opção: ");
 
             //int op = int.Parse(Console.ReadLine());
