@@ -44,6 +44,18 @@ namespace MetodosDasClasses
             //Console.WriteLine(pi);
             #endregion
 
+            #region Sobrecarga de métodos
+            //m.Cumprimentar();
+            //m.Cumprimentar("Caio");
+            //m.Cumprimentar("Caio", 18);
+
+            //bool res1 = m.Comparar(100, 50 * 2);
+            //bool res2 = m.Comparar("Caio", "caio");
+
+            //Console.WriteLine(res1);
+            //Console.WriteLine(res2);
+            #endregion
+
 
 
             Console.ReadKey();

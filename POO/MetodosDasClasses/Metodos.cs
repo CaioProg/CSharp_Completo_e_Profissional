@@ -46,15 +46,37 @@ namespace MetodosDasClasses
             //string nomeCompleto = $"{nome} {sobrenome}";
             return $"{nome} {sobrenome}";
         }
+
         public int CodigoChar(char caractere)
         {
             //int codigo = (int)caractere;
             return caractere;
         }
-
+        
         public double ValorPI()
         {
             return 3.1415;
+        }
+
+        // Sobrecarga de métodos
+        public void Cumprimentar(string nome)
+        {
+            Console.WriteLine($"Olá, {nome}!");
+        }
+        public void Cumprimentar(string nome, int hora)
+        {
+            string mensagem = hora < 12 ? "Bom dia " + nome : "Boa tarde " + nome;
+            Console.WriteLine(mensagem);
+        }
+
+        public bool Comparar(int num1, int num2)
+        {
+            return num1 == num2;    
+        }
+
+        public bool Comparar(string txt1, string txt2)
+        {
+            return txt1 == txt2;
         }
     }
 }
