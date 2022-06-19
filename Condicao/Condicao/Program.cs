@@ -49,7 +49,25 @@ namespace Condicao
             //}
             #endregion
 
+            #region Operador ternário
+            //int numero = 0;
+            //string mensagem = numero > 5 ? "Mior que 5" : "Menor que 5";
 
+            // condição ? true : false;
+
+            //mensagem = numero > 5 ? "Mior que 5" : "Menor que 5";
+
+            //if (numero > 5)
+            //{
+            //    mensagem = "maior que 5";
+            //}
+            //else
+            //{
+            //    mensagem = "menor que 5";
+            //}
+
+            //Console.WriteLine(numero > 5 ? "Maior que 5" : "Menor que 5");
+            #endregion
 
             Console.ReadKey();
         }
