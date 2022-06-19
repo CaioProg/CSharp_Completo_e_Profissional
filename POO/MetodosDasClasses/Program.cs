@@ -11,18 +11,40 @@ namespace MetodosDasClasses
         static void Main(string[] args)
         {
             Metodos m = new Metodos();
-            m.Cumprimentar();
-            m.Somar(12, 45);
-            m.Apresentar("Caio", 19);
 
-            int valor1 = 100;
-            int valor2 = 100;
+            #region Métodos Simples
+            //m.Cumprimentar();
+            #endregion
 
-            m.AumentarValor(valor1);
-            m.AumentarRef(ref valor2);
+            #region Métodos com parâmetros
+            //m.Somar(12, 45);
+            //m.Apresentar("Caio", 19);
+            #endregion
 
-            Console.WriteLine($"Valor 1:{valor1}");
-            Console.WriteLine($"Valor 2:{valor2}");
+            #region Passagem de parâmetros por valor e por refência
+            //int valor1 = 100;
+            //int valor2 = 100;
+
+            //m.AumentarValor(valor1);
+            //m.AumentarRef(ref valor2);
+
+            //m.MontaNome("Caio", "Lucas");
+
+            //Console.WriteLine($"Valor 1:{valor1}");
+            //Console.WriteLine($"Valor 2:{valor2}");
+            #endregion
+
+            #region Métodos com retorno de valores
+            //string nomeCompleto = m.MontaNome("Caio", "Lucas");
+            //int codigoChar = m.CodigoChar('a');
+            //double pi = m.ValorPI();
+
+            //Console.WriteLine(nomeCompleto);
+            //Console.WriteLine(codigoChar);
+            //Console.WriteLine(pi);
+            #endregion
+
+
 
             Console.ReadKey();
         }
