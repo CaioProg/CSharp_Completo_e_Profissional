@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Ciclos\Ciclos\obj\Debug\Ciclos.pdb
