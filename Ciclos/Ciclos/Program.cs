@@ -10,8 +10,7 @@ namespace Ciclos
     {
         static void Main(string[] args)
         {
-
-            #region Ciclo While
+            #region Ciclo while
             //int valor = 15;
             //while (valor < 10)
             //{
@@ -38,7 +37,20 @@ namespace Ciclos
             //}
             #endregion
 
+            #region Ciclo foreach
+            //string[] nomes =
+            //{
+            //    "Caio",
+            //    "Gabriel",
+            //    "Maria",
+            //    "Danny"
+            //};
 
+            //foreach (string nome in nomes)
+            //{
+            //    Console.WriteLine($"Nome: {nome}");
+            //}
+            #endregion
 
             Console.ReadKey(); 
         }
