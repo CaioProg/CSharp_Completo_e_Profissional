@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\bin\Debug\Estaticas.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\bin\Debug\Estaticas.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\obj\Debug\Estaticas.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\obj\Debug\Estaticas.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Estaticas\obj\Debug\Estaticas.pdb
