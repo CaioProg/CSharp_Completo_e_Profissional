@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Propriedades\obj\Debug\Propriedades.pdb
