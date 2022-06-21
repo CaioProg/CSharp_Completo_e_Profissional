@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\Workspace\CSharp_Completo_e_Profissional\POO\Encapsular\obj\Debug\Encapsular.pdb
