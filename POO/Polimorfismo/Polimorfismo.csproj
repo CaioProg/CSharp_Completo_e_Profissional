@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A9BC3E89-3A15-4543-A593-48F67C2CE928}</ProjectGuid>
+    <ProjectGuid>{610F32B3-DF5C-4948-91EF-E0869DA09C2C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Modificadores</RootNamespace>
-    <AssemblyName>Modificadores</AssemblyName>
+    <RootNamespace>Polimorfismo</RootNamespace>
+    <AssemblyName>Polimorfismo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
