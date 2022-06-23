@@ -24,6 +24,11 @@ namespace Polimorfismo
         {
            
         }
+
+        public void SolicitarEmprestimo()
+        {
+
+        }
     }
 
     interface IConta
