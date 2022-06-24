@@ -8,7 +8,7 @@ namespace MediaGeralPOO
 {
     class Aluno
     {
-        public string Nome { get; set; }
+        public string Nome { get; private set; }
 
         private double[] _notas;
 
@@ -16,7 +16,7 @@ namespace MediaGeralPOO
         {
             get
             {
-                return 0;
+                return CalcularMedia();
             }
         }
 

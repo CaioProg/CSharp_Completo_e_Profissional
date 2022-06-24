@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Workspace\CSharp_Completo_e_Profissional\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
