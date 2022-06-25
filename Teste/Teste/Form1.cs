@@ -15,9 +15,14 @@ namespace Teste
         public Form1()
         {
             InitializeComponent();
-            this.Text = "Projeto 1";
-            this.Size = new Size (400, 200);
-            this.ControlBox = true;
+            //this.Text = "Projeto 1";
+            //this.Size = new Size (400, 200);
+            //this.ControlBox = true;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Text = "Carregando a Form";
         }
     }
 }
