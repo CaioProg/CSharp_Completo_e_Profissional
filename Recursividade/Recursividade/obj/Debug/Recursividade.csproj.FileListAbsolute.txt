@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Recursividade\Recursividade\obj\Debug\Recursividade.pdb
