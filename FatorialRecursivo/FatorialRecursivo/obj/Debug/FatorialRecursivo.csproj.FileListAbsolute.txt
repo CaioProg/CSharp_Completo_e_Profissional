@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Workspace\CSharp_Completo_e_Profissional\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb
