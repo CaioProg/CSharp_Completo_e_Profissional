@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+C:\Workspace\CSharp_Completo_e_Profissional\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
