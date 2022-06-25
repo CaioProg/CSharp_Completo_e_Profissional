@@ -27,9 +27,10 @@ namespace FatorialRecursivo
             switch (op)
             {
                 case "s":
+                case "S":
                     goto Inicio;
-                    break;
                 case "n":
+                case "N":
                     break;
                 default:
                     Console.WriteLine("Opção invalidada!");
