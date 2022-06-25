@@ -1,0 +1,11 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\bin\Debug\Teste.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\bin\Debug\Teste.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.Teste.resources
