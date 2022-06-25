@@ -1,6 +1,6 @@
 ﻿namespace Teste
 {
-    partial class Teste
+    partial class Form1
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -40,14 +41,19 @@
             this.button1.Text = "Executar";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // Teste
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(819, 432);
+            this.ClientSize = new System.Drawing.Size(784, 450);
             this.Controls.Add(this.button1);
-            this.Name = "Teste";
-            this.Text = "Teste Formulario";
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Location = new System.Drawing.Point(200, 100);
+            this.MaximumSize = new System.Drawing.Size(800, 600);
+            this.MinimumSize = new System.Drawing.Size(300, 100);
+            this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Minha aplicação";
             this.ResumeLayout(false);
 
         }

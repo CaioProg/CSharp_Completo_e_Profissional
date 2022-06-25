@@ -8,4 +8,4 @@ C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.G
 C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
 C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.exe
 C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.pdb
-C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.Teste.resources
+C:\Workspace\CSharp_Completo_e_Profissional\Teste\Teste\obj\Debug\Teste.Form1.resources
