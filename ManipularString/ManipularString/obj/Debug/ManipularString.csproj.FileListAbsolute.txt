@@ -1,0 +1,11 @@
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\bin\Debug\ManipularString.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\bin\Debug\ManipularString.exe
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\bin\Debug\ManipularString.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.Form1.resources
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.exe
+C:\Workspace\CSharp_Completo_e_Profissional\ManipularString\ManipularString\obj\Debug\ManipularString.pdb
