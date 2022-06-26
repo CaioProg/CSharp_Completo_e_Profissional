@@ -29,41 +29,46 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.button1 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.btn1 = new System.Windows.Forms.Button();
+            this.lblTitulo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // btn1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.Firebrick;
-            this.button1.Location = new System.Drawing.Point(284, 172);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(250, 100);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Executar";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btn1.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.ForeColor = System.Drawing.Color.Firebrick;
+            this.btn1.Location = new System.Drawing.Point(284, 172);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(250, 100);
+            this.btn1.TabIndex = 0;
+            this.btn1.Text = "Executar";
+            this.btn1.UseVisualStyleBackColor = false;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
+            this.btn1.MouseEnter += new System.EventHandler(this.btn1_MouseEnter);
+            this.btn1.MouseLeave += new System.EventHandler(this.btn1_MouseLeave);
             // 
-            // label1
+            // lblTitulo
             // 
-            this.label1.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(-1, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(783, 49);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Titulo da aplicação";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.lblTitulo.AutoEllipsis = true;
+            this.lblTitulo.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.ForeColor = System.Drawing.Color.Black;
+            this.lblTitulo.Location = new System.Drawing.Point(-1, 9);
+            this.lblTitulo.Name = "lblTitulo";
+            this.lblTitulo.Size = new System.Drawing.Size(783, 49);
+            this.lblTitulo.TabIndex = 1;
+            this.lblTitulo.Text = "Titulo da aplicação";
+            this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblTitulo.Click += new System.EventHandler(this.lblTitulo_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 461);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.lblTitulo);
+            this.Controls.Add(this.btn1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Location = new System.Drawing.Point(200, 100);
             this.MaximumSize = new System.Drawing.Size(800, 600);
@@ -78,8 +83,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btn1;
+        private System.Windows.Forms.Label lblTitulo;
     }
 }
 
