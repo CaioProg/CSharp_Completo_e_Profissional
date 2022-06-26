@@ -32,11 +32,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.textNome = new System.Windows.Forms.TextBox();
+            this.txtNome = new System.Windows.Forms.TextBox();
             this.txtData = new System.Windows.Forms.DateTimePicker();
             this.comboEC = new System.Windows.Forms.ComboBox();
             this.txtTelefone = new System.Windows.Forms.MaskedTextBox();
-            this.chackCasa = new System.Windows.Forms.CheckBox();
+            this.checkCasa = new System.Windows.Forms.CheckBox();
             this.checkVeiculo = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.radioM = new System.Windows.Forms.RadioButton();
@@ -92,13 +92,13 @@
             this.label4.Text = "Telefone";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // textNome
+            // txtNome
             // 
-            this.textNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textNome.Location = new System.Drawing.Point(250, 17);
-            this.textNome.Name = "textNome";
-            this.textNome.Size = new System.Drawing.Size(483, 31);
-            this.textNome.TabIndex = 4;
+            this.txtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNome.Location = new System.Drawing.Point(250, 17);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(483, 31);
+            this.txtNome.TabIndex = 4;
             // 
             // txtData
             // 
@@ -127,15 +127,15 @@
             this.txtTelefone.TabIndex = 7;
             this.txtTelefone.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
             // 
-            // chackCasa
+            // checkCasa
             // 
-            this.chackCasa.AutoSize = true;
-            this.chackCasa.Location = new System.Drawing.Point(250, 220);
-            this.chackCasa.Name = "chackCasa";
-            this.chackCasa.Size = new System.Drawing.Size(126, 17);
-            this.chackCasa.TabIndex = 8;
-            this.chackCasa.Text = "Possui Casa Própria?";
-            this.chackCasa.UseVisualStyleBackColor = true;
+            this.checkCasa.AutoSize = true;
+            this.checkCasa.Location = new System.Drawing.Point(250, 220);
+            this.checkCasa.Name = "checkCasa";
+            this.checkCasa.Size = new System.Drawing.Size(126, 17);
+            this.checkCasa.TabIndex = 8;
+            this.checkCasa.Text = "Possui Casa Própria?";
+            this.checkCasa.UseVisualStyleBackColor = true;
             // 
             // checkVeiculo
             // 
@@ -162,6 +162,7 @@
             // radioM
             // 
             this.radioM.AutoSize = true;
+            this.radioM.Checked = true;
             this.radioM.Location = new System.Drawing.Point(19, 20);
             this.radioM.Name = "radioM";
             this.radioM.Size = new System.Drawing.Size(73, 17);
@@ -177,7 +178,6 @@
             this.radioF.Name = "radioF";
             this.radioF.Size = new System.Drawing.Size(67, 17);
             this.radioF.TabIndex = 1;
-            this.radioF.TabStop = true;
             this.radioF.Text = "Feminino";
             this.radioF.UseVisualStyleBackColor = true;
             // 
@@ -188,7 +188,6 @@
             this.radioO.Name = "radioO";
             this.radioO.Size = new System.Drawing.Size(51, 17);
             this.radioO.TabIndex = 2;
-            this.radioO.TabStop = true;
             this.radioO.Text = "Outro";
             this.radioO.UseVisualStyleBackColor = true;
             // 
@@ -243,11 +242,11 @@
             this.Controls.Add(this.lista);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.checkVeiculo);
-            this.Controls.Add(this.chackCasa);
+            this.Controls.Add(this.checkCasa);
             this.Controls.Add(this.txtTelefone);
             this.Controls.Add(this.comboEC);
             this.Controls.Add(this.txtData);
-            this.Controls.Add(this.textNome);
+            this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -269,11 +268,11 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textNome;
+        private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.DateTimePicker txtData;
         private System.Windows.Forms.ComboBox comboEC;
         private System.Windows.Forms.MaskedTextBox txtTelefone;
-        private System.Windows.Forms.CheckBox chackCasa;
+        private System.Windows.Forms.CheckBox checkCasa;
         private System.Windows.Forms.CheckBox checkVeiculo;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.RadioButton radioO;
