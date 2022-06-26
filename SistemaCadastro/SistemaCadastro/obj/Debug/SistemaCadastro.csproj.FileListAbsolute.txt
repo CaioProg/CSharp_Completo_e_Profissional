@@ -1,0 +1,11 @@
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Workspace\CSharp_Completo_e_Profissional\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
