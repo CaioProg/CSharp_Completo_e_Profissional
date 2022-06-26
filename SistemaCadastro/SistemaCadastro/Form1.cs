@@ -70,7 +70,8 @@ namespace SistemaCadastro
                 txtNome.Focus();
                 return;
             }
-            if (txtTelefone.Text == "")
+
+            if (txtTelefone.Text == "(  )      -")
             {
                 MessageBox.Show("Preencha o campo telefone.");
                 txtTelefone.Focus();
@@ -116,12 +117,23 @@ namespace SistemaCadastro
 
         private void btnExcluir_Click(object sender, EventArgs e)
         {
-
+            int indice = lista.SelectedIndex;
+            pessoas.RemoveAt(indice);
+            Listar();
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
-
+            txtNome.Text = "";
+            txtData.Text = "";
+            comboEC.SelectedIndex = 0;
+            txtTelefone.Text = "";
+            checkCasa.Checked = false;
+            checkVeiculo.Checked = false;
+            radioM.Checked = true;
+            radioF.Checked = false;
+            radioO.Checked = false;
+            txtNome.Focus();
         }
 
         private void Listar()
