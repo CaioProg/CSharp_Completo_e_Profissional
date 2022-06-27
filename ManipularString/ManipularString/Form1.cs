@@ -54,13 +54,33 @@ namespace ManipularString
             //label1.Text = "Indice: " + indice;
             #endregion
 
-            string nome = "Caio Lucas";
+            #region Insert / Replace
+            //string nome = "Caio Lucas";
 
-            //string nomeFinal = nome.Insert(9, " Silva");
+            ////string nomeFinal = nome.Insert(9, " Silva");
 
-            string nomeFinal = nome.Replace("Lucas", "Silva");
+            //string nomeFinal = nome.Replace("Lucas", "Silva");
 
-            label1.Text = nomeFinal;
+            //label1.Text = nomeFinal;
+            #endregion
+
+            #region Length / Substring
+            //string nome = "Caio Lucas";
+
+            //for (int i = 0; i < nome.Length; i++)
+            //{
+            //    label1.Text += nome[i] + "\n";
+            //}
+
+            //int tam = nome.Length;
+            //label1.Text = $"O nome {nome} contém {tam} letras";
+
+            //string parte = nome.Substring(nome.IndexOf(" "));
+
+            //label1.Text = parte;
+            #endregion
+
+
         }
     }
 }
