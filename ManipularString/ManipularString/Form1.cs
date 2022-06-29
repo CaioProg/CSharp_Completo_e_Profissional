@@ -80,16 +80,40 @@ namespace ManipularString
             //label1.Text = parte;
             #endregion
 
-            string nomes = "Gabriel Danny-Arthur_Caio_Glória-Bia Flavio";
+            #region Split
+            //string nomes = "Gabriel Danny-Arthur_Caio_Glória-Bia Flavio";
 
-            char[] separador = { ' ', '-', '_' }; 
+            //char[] separador = { ' ', '-', '_' }; 
 
-            string[] resultado = nomes.Split(separador, StringSplitOptions.None);
+            //string[] resultado = nomes.Split(separador, StringSplitOptions.None);
 
-            foreach (string nome in resultado)
-            {
-                label1.Text += nome + "\n"; 
-            }
+            //foreach (string nome in resultado)
+            //{
+            //    label1.Text += nome + "\n"; 
+            //}
+            #endregion
+
+            #region StartsWith / EndsWith
+            //string nome = "Caio";
+
+            //nome.StartsWith("G");
+
+            //bool res = nome.StartsWith("ca", StringComparison.OrdinalIgnoreCase);
+
+            //bool res = nome.EndsWith("AIO", StringComparison.OrdinalIgnoreCase);
+
+            //if (res)
+            //{
+            //    label1.Text = "Positivo.";
+            //}
+            //else
+            //{
+            //    label1.Text = "Negativo.";
+            //}
+            #endregion
+
+
+
         }
     }
 }
