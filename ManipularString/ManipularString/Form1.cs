@@ -112,8 +112,13 @@ namespace ManipularString
             //}
             #endregion
 
+            string mensagem = "     Olá Caio  -_ - 5   ";
 
+            char[] c = { ' ', '-', '_', '5' };
+            //string nova = mensagem.Trim(c);
+            //mensagem.TrimStart()
 
+            label1.Text = ">" + mensagem.TrimEnd(c) + "<";
         }
     }
 }
