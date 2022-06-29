@@ -112,13 +112,30 @@ namespace ManipularString
             //}
             #endregion
 
-            string mensagem = "     Olá Caio  -_ - 5   ";
+            #region Trim / TrimStart / TrimEnd
+            //string mensagem = "     Olá Caio  -_ - 5   ";
 
-            char[] c = { ' ', '-', '_', '5' };
-            //string nova = mensagem.Trim(c);
-            //mensagem.TrimStart()
+            //char[] c = { ' ', '-', '_', '5' };
+            ////string nova = mensagem.Trim(c);
+            ////mensagem.TrimStart()
 
-            label1.Text = ">" + mensagem.TrimEnd(c) + "<";
+            //label1.Text = ">" + mensagem.TrimEnd(c) + "<";
+            #endregion
+
+            string nome = "Lucas";
+
+            string nome2 = "Roberto";
+
+            //if (nome.Equals(nome2, StringComparison.OrdinalIgnoreCase))
+            //{
+            //    label1.Text = "Positivo";
+            //}
+            //else
+            //{
+            //    label1.Text = "Negativo";
+            //}
+
+            label1.Text = nome.CompareTo(nome2).ToString();
         }
     }
 }
