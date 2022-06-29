@@ -122,9 +122,10 @@ namespace ManipularString
             //label1.Text = ">" + mensagem.TrimEnd(c) + "<";
             #endregion
 
-            string nome = "Lucas";
+            #region Equals / CompareTo
+            //string nome = "Lucas";
 
-            string nome2 = "Roberto";
+            //string nome2 = "Roberto";
 
             //if (nome.Equals(nome2, StringComparison.OrdinalIgnoreCase))
             //{
@@ -135,7 +136,24 @@ namespace ManipularString
             //    label1.Text = "Negativo";
             //}
 
-            label1.Text = nome.CompareTo(nome2).ToString();
+            //label1.Text = nome.CompareTo(nome2).ToString();
+            #endregion
+
+            #region Format
+            decimal valor = 19.95m;
+            int temp = 32;
+
+            //string s = String.Format("O valor do produto é {0:C2} e a temperatura é {1}", valor, temp);
+
+            //string s = String.Format("Hoje é {0:D} e são {0:T}", DateTime.Now);
+
+           //string s = $"O valor do produto é {valor} e a temperatura é {temp}";
+
+            string s = $"Data: {DateTime.Now:D} e hora {DateTime.Now:T}";
+
+            label1.Text = s;
+            #endregion
+
         }
     }
 }
