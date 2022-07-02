@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaLogin
 {
-    internal class CadastroUsuarios
+    static class CadastroUsuarios
     {
         private static Usuario[] usuarios =
         {
@@ -14,7 +14,27 @@ namespace SistemaLogin
             new Usuario() { Nome = "Danny", Senha = "123abc"},
             new Usuario() { Nome = "Lucas", Senha = "acbd"}
         };
-
+        
         private static Usuario _userLogado = null;
+
+        public static Usuario UsuarioLogado
+        {
+            get { return _userLogado; }
+            private set { _userLogado = value; } 
+        }
+
+        public static bool Login(string nome, string senha)
+        {
+            foreach (Usuario usuario in usuarios)
+            {
+                if (usuario.Nome == nome && usuario.Senha == senha)
+                {
+                    UsuarioLogado = usuario;
+                    return true;
+                }
+
+            }
+            return false;
+        }
     }
 }
