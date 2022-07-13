@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulaNumeros", "ManipulaNumeros\ManipulaNumeros.csproj", "{B0F1EFC9-0A4E-4FF2-85EC-B21765298FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F1EFC9-0A4E-4FF2-85EC-B21765298FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F1EFC9-0A4E-4FF2-85EC-B21765298FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F1EFC9-0A4E-4FF2-85EC-B21765298FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F1EFC9-0A4E-4FF2-85EC-B21765298FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2083AC0C-4233-4BA4-BC09-6E3BF2AA062F}
+	EndGlobalSection
+EndGlobal

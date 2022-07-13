@@ -1,0 +1,11 @@
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\bin\Debug\ManipulaNumeros.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\bin\Debug\ManipulaNumeros.exe
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\bin\Debug\ManipulaNumeros.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.Form1.resources
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.exe
+C:\Workspace\CSharp_Completo_e_Profissional\ManipulaNumeros\ManipulaNumeros\obj\Debug\ManipulaNumeros.pdb
