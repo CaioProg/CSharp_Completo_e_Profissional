@@ -47,11 +47,23 @@ namespace ManipulaNumeros
             //lblResultado.Text = Convert.ToString(num, 8);
             #endregion
 
+            double pi = Math.PI;
+            double E = Math.E;
+            double seno = Math.Sin(3);
+            double coseno= Math.Cos(3);
+            double potencia = Math.Pow(2, 6);
+            double raizQuadrada = Math.Sqrt(49);
+            double arredonda = Math.Round(158.75);
+            double inteiro = Math.Truncate(32.87);
+            double floor = Math.Floor(52.78);
+            double ceil = Math.Ceiling(52.10);
+
+            lblResultado.Text = ceil.ToString();
         }
 
         private void lblResultado_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
