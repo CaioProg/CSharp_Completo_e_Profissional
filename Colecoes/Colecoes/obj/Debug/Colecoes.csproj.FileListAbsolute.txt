@@ -1,0 +1,11 @@
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\Workspace\CSharp_Completo_e_Profissional\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
