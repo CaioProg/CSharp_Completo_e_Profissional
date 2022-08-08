@@ -103,13 +103,30 @@ namespace Colecoes
             //veiculos.Remove("");
             //int num = veiculos.Count;
             //veiculos.Clear();
-            veiculos.First();
-            veiculos.Last();
+            //veiculos.First();
+            //veiculos.Last();
 
 
             foreach (string item in veiculos)
             {
                 lista.Items.Add(item);
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Dictionary<int, string> alunos = new Dictionary<int, string>()
+            {
+                { 150, "Lucas" },
+                { 200, "Caio" },
+                { 80, "Caio" }
+            };
+
+            alunos.Add(100, "Gabi");
+
+            foreach (KeyValuePair<int, string> item in alunos)
+            {
+                lista.Items.Add(item.Key + " = " + item.Value);
             }
         }
     }
