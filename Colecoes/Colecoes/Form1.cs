@@ -124,10 +124,40 @@ namespace Colecoes
 
             alunos.Add(100, "Gabi");
 
+            //alunos.ContainsKey(150)
+            //if (alunos.ContainsKey(150))
+            //{
+            //    MessageBox.Show("Contém");
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Não Contém");
+            //}
+
+            if (alunos.ContainsValue("Caio"))
+            {
+                MessageBox.Show("Contém");
+            }
+            else
+            {
+                MessageBox.Show("Não Contém");
+            }
+
+            //alunos.Remove(80);
+
+            //alunos.Clear();
+
+            //KeyValuePair<int, string> primeiro = alunos.First();
+            //MessageBox.Show($"Primeiro: {primeiro.Value}");
+
+            //MessageBox.Show($"Último: {alunos.Last().Key} {alunos.Last().Value}");
+
             foreach (KeyValuePair<int, string> item in alunos)
             {
                 lista.Items.Add(item.Key + " = " + item.Value);
             }
+
+            //MessageBox.Show($"Quantidade de alunos é: {alunos.Count}");
         }
     }
 }
