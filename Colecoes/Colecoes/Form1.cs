@@ -159,5 +159,31 @@ namespace Colecoes
 
             //MessageBox.Show($"Quantidade de alunos é: {alunos.Count}");
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            lista.Items.Clear();
+            SortedList<int, string> alunos = new SortedList<int, string>()
+            {
+                { 27, "Danny" },
+                { 10, "Julia" },
+                { 17, "Maria" }
+            };
+            alunos.Add(45, "Caio");
+
+            //alunos.Reverse();
+
+            //alunos.Remove(17);
+            //alunos.RemoveAt(0);
+            //alunos.Count;
+            //alunos.ContainsKey(10);
+            //alunos.ContainsValue("Danny");
+
+
+            foreach (KeyValuePair <int, string> item in alunos)
+            {
+                lista.Items.Add(item.Key + " " + item.Value);
+            }
+        }
     }
 }
