@@ -185,5 +185,30 @@ namespace Colecoes
                 lista.Items.Add(item.Key + " " + item.Value);
             }
         }
+
+        private void btnSortedLDictionary_Click(object sender, EventArgs e)
+        {
+            SortedDictionary<int, string> alunos = new SortedDictionary<int, string>()
+            {
+                {23, "Lucas" },
+                {13424, "Maria" },
+                {13425, "Ana" }
+            };
+
+            alunos.Add(233, "Julia");
+
+            //alunos.Remove(13423);
+            //alunos.Count;
+            //alunos.Clear();
+            //alunos.ContainsKey(212);
+            //alunos.ContainsValue("Lucas");
+            MessageBox.Show(alunos.ElementAt(0).ToString());
+            
+
+            foreach (KeyValuePair<int,string> item in alunos.Reverse())
+            {
+                lista.Items.Add(item);
+            }
+        }
     }
 }
