@@ -210,5 +210,35 @@ namespace Colecoes
                 lista.Items.Add(item);
             }
         }
+
+        private void btnSortedSet_Click(object sender, EventArgs e)
+        {
+
+            lista.Items.Clear();
+            SortedSet<string> nomes = new SortedSet<string>()
+            {
+                "Caio", "Danny", "Julia", "Maria"
+            };
+
+            if (!nomes.Add("Lucas"))
+            {
+                MessageBox.Show("Não pode repetir o valor!");
+            }
+
+            //nomes.Reverse();
+            //nomes.Remove("Flávio");
+            //nomes.ElementAt(1);
+            //nomes.First();
+            //nomes.Last();
+            //nomes.Count();
+            //nomes.Clear();
+
+            MessageBox.Show(nomes.First());
+
+            foreach (string nome in nomes)
+            {
+                lista.Items.Add(nome);
+            }
+        }
     }
 }

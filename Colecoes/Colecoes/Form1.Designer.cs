@@ -34,6 +34,7 @@
             this.btnDictionary = new System.Windows.Forms.Button();
             this.BtnSortedList = new System.Windows.Forms.Button();
             this.btnSortedLDictionary = new System.Windows.Forms.Button();
+            this.btnSortedSet = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lista
@@ -102,11 +103,24 @@
             this.btnSortedLDictionary.UseVisualStyleBackColor = true;
             this.btnSortedLDictionary.Click += new System.EventHandler(this.btnSortedLDictionary_Click);
             // 
+            // btnSortedSet
+            // 
+            this.btnSortedSet.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSortedSet.Location = new System.Drawing.Point(772, 317);
+            this.btnSortedSet.Name = "btnSortedSet";
+            this.btnSortedSet.Size = new System.Drawing.Size(179, 55);
+            this.btnSortedSet.TabIndex = 6;
+            this.btnSortedSet.Text = "SortedSet";
+            this.btnSortedSet.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnSortedSet.UseVisualStyleBackColor = true;
+            this.btnSortedSet.Click += new System.EventHandler(this.btnSortedSet_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(963, 567);
+            this.Controls.Add(this.btnSortedSet);
             this.Controls.Add(this.btnSortedLDictionary);
             this.Controls.Add(this.BtnSortedList);
             this.Controls.Add(this.btnDictionary);
@@ -128,6 +142,7 @@
         private System.Windows.Forms.Button btnDictionary;
         private System.Windows.Forms.Button BtnSortedList;
         private System.Windows.Forms.Button btnSortedLDictionary;
+        private System.Windows.Forms.Button btnSortedSet;
     }
 }
 
