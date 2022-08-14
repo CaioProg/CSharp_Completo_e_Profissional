@@ -9,3 +9,14 @@ C:\Workspace\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
 C:\Workspace\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
 C:\Workspace\JokenPo\JokenPo\obj\Debug\JokenPo.exe
 C:\Workspace\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.Form1.resources
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\Workspace\CSharp_Completo_e_Profissional\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
