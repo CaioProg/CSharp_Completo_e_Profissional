@@ -142,6 +142,7 @@
             this.btnPedra.Size = new System.Drawing.Size(200, 200);
             this.btnPedra.TabIndex = 9;
             this.btnPedra.UseVisualStyleBackColor = true;
+            this.btnPedra.Click += new System.EventHandler(this.btnPedra_Click);
             // 
             // btnPapel
             // 
@@ -152,6 +153,7 @@
             this.btnPapel.Size = new System.Drawing.Size(200, 200);
             this.btnPapel.TabIndex = 10;
             this.btnPapel.UseVisualStyleBackColor = true;
+            this.btnPapel.Click += new System.EventHandler(this.btnPapel_Click);
             // 
             // btnTesoura
             // 
@@ -162,6 +164,7 @@
             this.btnTesoura.Size = new System.Drawing.Size(200, 200);
             this.btnTesoura.TabIndex = 11;
             this.btnTesoura.UseVisualStyleBackColor = true;
+            this.btnTesoura.Click += new System.EventHandler(this.btnTesoura_Click);
             // 
             // Form1
             // 
