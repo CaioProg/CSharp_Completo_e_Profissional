@@ -284,5 +284,45 @@ namespace Colecoes
                 }
             }
         }
+
+        private void btnStack_Click(object sender, EventArgs e)
+        {
+            lista.Items.Clear();
+
+            Stack<string> pilha = new Stack<string>();
+
+            pilha.Push("Leticia");
+            pilha.Push("Amanda");
+            pilha.Push("Lais");
+
+            MessageBox.Show(pilha.Count.ToString());
+
+            foreach (string item in pilha)
+            {
+                lista.Items.Add(item);
+            }
+
+            //MessageBox.Show("Elemento no topo " + pilha.Peek());
+            //MessageBox.Show(pilha.Count.ToString());
+
+            MessageBox.Show("Elemento no topo " + pilha.Pop());
+            MessageBox.Show(pilha.Count.ToString());
+
+            //pilha.Clear();
+
+            while (pilha.Count > 0 )
+            {
+                MessageBox.Show("Elemento no topo " + pilha.Pop());
+                MessageBox.Show(pilha.Count.ToString());
+
+                lista.Items.Clear();
+
+                foreach (string item in pilha)
+                {
+                    lista.Items.Add(item);
+                }
+            }
+
+        }
     }
 }

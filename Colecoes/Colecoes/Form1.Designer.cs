@@ -36,6 +36,7 @@
             this.btnSortedLDictionary = new System.Windows.Forms.Button();
             this.btnSortedSet = new System.Windows.Forms.Button();
             this.btnQueue = new System.Windows.Forms.Button();
+            this.btnStack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lista
@@ -128,11 +129,24 @@
             this.btnQueue.UseVisualStyleBackColor = true;
             this.btnQueue.Click += new System.EventHandler(this.btnQueue_Click);
             // 
+            // btnStack
+            // 
+            this.btnStack.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStack.Location = new System.Drawing.Point(772, 439);
+            this.btnStack.Name = "btnStack";
+            this.btnStack.Size = new System.Drawing.Size(179, 55);
+            this.btnStack.TabIndex = 8;
+            this.btnStack.Text = "Stack";
+            this.btnStack.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnStack.UseVisualStyleBackColor = true;
+            this.btnStack.Click += new System.EventHandler(this.btnStack_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(963, 567);
+            this.Controls.Add(this.btnStack);
             this.Controls.Add(this.btnQueue);
             this.Controls.Add(this.btnSortedSet);
             this.Controls.Add(this.btnSortedLDictionary);
@@ -158,6 +172,7 @@
         private System.Windows.Forms.Button btnSortedLDictionary;
         private System.Windows.Forms.Button btnSortedSet;
         private System.Windows.Forms.Button btnQueue;
+        private System.Windows.Forms.Button btnStack;
     }
 }
 
