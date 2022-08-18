@@ -34,7 +34,18 @@ namespace ClassesImportantes
             //}
 
             //MessageBox.Show("Mensagem", "Titulo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            
             MessageBox.Show("Mensagem", "Titulo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+        }
+
+        private void btnAleatorio_Click(object sender, EventArgs e)
+        {
+            Random r = new Random(DateTime.Now.Millisecond);
+
+            int valor = r.Next(100);
+            double valor2 = r.NextDouble() * 100;
+
+            lblResultado.Text = $"Número : {valor2}";
         }
     }
 }
